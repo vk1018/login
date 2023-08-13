@@ -1,0 +1,19 @@
+.bg-con {
+  background-color: #fff;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  height: 400px;
+  width: 500px;
+  background: linear-gradient(#2b2c49, #bfb9ff);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border-radius: 10px;
+  font-family: 'Roboto';
+}
